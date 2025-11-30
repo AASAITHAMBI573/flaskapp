@@ -22,9 +22,3 @@
 - This setup ensures that every commit triggers a full CI/CD pipeline that builds, scans and deploys your application with minimal manual intervention.
 
 
-**Youtube Video Link:**
-
-
-```
-https://youtu.be/IbZcdl15oDY?si=lH07TL9-tgrT-WmI
-```
